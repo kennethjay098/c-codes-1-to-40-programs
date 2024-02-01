@@ -47,7 +47,7 @@ float ans;
 		cout<<"\n enter two numbers to add: ";
 		cin>> num1>>num2;
 		ans = num1+num2;
-		cout<<"\n sum"<<num1<<"\n";
+		cout<<"\n sum"<<ans<<"\n";
 	}
 	void sub() {
 		cout<<"\n enter two numbers to sub: ";

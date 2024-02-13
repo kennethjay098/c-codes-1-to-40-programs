@@ -18,7 +18,7 @@ int main () {
 	
 	counter = 0;
 	
-	for(i=0;i>3;i++)
+	for(i=0;i<3;i++)
 	if(score[i] > averagescore)
 	counter++;
 	
